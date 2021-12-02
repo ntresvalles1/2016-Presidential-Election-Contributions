@@ -46,6 +46,8 @@ Democrat in the election, and also contributing a significant amount of
 money that pushed Clinton to have more contributions during the
 Presidential Race.
 
+![](2016-presidential-elections-contributions_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->
+
 ## Comparing Contributions in the Last 6 Months of the 2016 Presidential Race in the Swing States
 
 This visualization focuses on the distribution of money donated by the

@@ -86,7 +86,6 @@ no_VA <- ggplot(contributions_swing, aes(x = cand_id, y = new_transaction,
   scale_x_discrete(labels=c("Clinton", "Trump")) +
   theme(plot.title = element_text(hjust = 0.5))+
   scale_y_continuous(labels = function(x) format(x, scientific = TRUE))
-  
 
 ```
 
@@ -94,7 +93,7 @@ no_VA <- ggplot(contributions_swing, aes(x = cand_id, y = new_transaction,
 library(ggpubr)
 ```
 
-```{r, echo = FALSE, message = FALSE, include=FALSE}
+```{r, echo = FALSE}
 ggarrange(all, no_VA) 
 ```
 
